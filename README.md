@@ -1,13 +1,12 @@
 ## Hello world! i'm Rizky Mustafa Afrino 👋
 
-![Rizky Mustafa](img/)
 
 - 🏫 A student at the [**Tengaran Vocational School**](https://smkn1tengaran.sch.id/)
 
 
 
 #### Studying
-[![My Skills](https://skillicons.dev/icons?i=html,react,css,bootstrap,js&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,js&theme=light)](https://skillicons.dev)
 
 <!--
 **rizkyafrino14/rizkyafrino14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
