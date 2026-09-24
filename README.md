@@ -1,72 +1,71 @@
-<h1 align="left">Hello world! I'm Rizky Mustafa Afrino 👋</h1>
+<div align="center">
 
-<p align="left">My name is Rizky and I'm from Semarang Regency.</p>
+# Hi there, I'm Rizky Mustafa Afrino 👋
 
----
+<img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&customColorList=6,11,20,30,40&height=120&section=header&text=Web%20Developer%20&%20UI/UX%20Designer&fontSize=22&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
 
-<h2 align="left">About Me</h2>
-
-<p align="left">🏫 A student at the Tengaran Vocational School<br>
-💻 Passionate about Web Development, UI/UX Design, and building clean, responsive applications.</p>
-
----
-
-<h2 align="left">Tech Stack & Tools</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" alt="figma logo" />
 </div>
 
 ---
 
-<h2 align="left">GitHub Stats & Activity</h2>
+### 🚀 About Me
+- 🏫 Student at **Tengaran Vocational School** (Semarang Regency, Central Java)
+- 💻 Passionate about **Front-End Development**, **UI/UX Design**, and building clean, responsive web apps.
+- 🎯 Always eager to learn new technologies and improve coding skills every single day.
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizkyafrino14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Rizky's GitHub Stats" />
-</p>
+---
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizkyafrino14&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" />
-</p>
+### 🛠️ Tech Stack & Tools
 
-###
+<div align="center">
 
-<h4 align="left">Play Games With Me</h4>
+<img src="https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,javascript,react,php,mysql,figma,vscode,git,github" />
 
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rizkyafrino14&show_icons=true&theme=radical&hide_border=true&bg_color=121212&title_color=ff79c6&icon_color=50fa7b" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rizkyafrino14&theme=radical&hide_border=true&background=121212&side_labels=false" width="48%" />
+
+</div>
+
+---
+
+### 🎮 GitHub Activity Game
+
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rizkyafrino14/rizkyafrino14/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rizkyafrino14/rizkyafrino14/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rizkyafrino14/rizkyafrino14/output/pacman-contribution-graph.svg">
 </picture>
+</div>
 
 ---
 
-<h2 align="left">Connect with Me</h2>
+### 🌐 Connect with Me
 
-<div align="left">
-  <a href="https://instagram.com/riz_456d/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-  </a>
-  <a href="https://github.com/rizkyafrino14" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="github logo" />
-  </a>
-  <a href="mailto:rizkyafrino@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
+<div align="center">
+
+<a href="https://instagram.com/riz_456d/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+</a>
+<a href="https://github.com/rizkyafrino14" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
+</a>
+<a href="mailto:rizkyafrino@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&customColorList=40,30,20,11,6&height=60&section=footer" width="100%" />
 </div>
