@@ -1,75 +1,152 @@
-<!-- Header Banner Futuristik & Estetik Ala Gen Z -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,30,40,50&height=200&section=header&text=Rizky%20Mustafa%20Afrino&fontSize=34&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer%20%7C%20UI/UX%20Enthusiast%20%7C%20Code%20%26%20Vibes&descSize=14&descAlignY=62&animation=fadeIn" width="100%" />
-</div>
-
-<!-- Animasi Mengetik Teks Keren -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=3500&pause=1000&color=00F0FF&center=true&vCenter=true&width=550&lines=Turning+coffee+into+clean+responsive+code+%E2%98%95;Building+interactive+web+experiences+%F0%9F%9A%80;Always+exploring+new+frontend+trends+%E2%9C%A8" alt="Typing SVG" />
-</div>
-
----
-
-### 🚀 About Me & Vibe
-> *"First, solve the problem. Then, write the code."* 💻🔥
-
-- 🏫 **Status:** Student at SMK Negeri Tengaran (Semarang Regency)
-- 💡 **Focus:** Modern Frontend Web Development & Interactive User Interfaces
-- 🎧 **Current Vibe:** Lo-fi beats, dark mode everywhere, and clean aesthetics.
-
----
-
-### ⚡ Tech Stack & Tools
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,javascript,react,php,mysql,figma,vscode,git,github" alt="Tech Stack" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:000000&height=180&section=header&text=Rizky%20Mustafa%20Afrino&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=student%20%7C%20developer%20%7C%20builder&descAlignY=58&descSize=16&animation=fadeIn"/>
 
 </div>
 
----
-
-### 📊 GitHub Dashboard
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizkyafrino14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyafrino14&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizkyafrino14&theme=tokyonight&hide_border=true&background=1a1b26&side_labels=false" width="98%" />
-</div>
-
----
-
-### 🎮 Play Games With Me (Contribution Pacman)
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rizkyafrino14/rizkyafrino14/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rizkyafrino14/rizkyafrino14/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rizkyafrino14/rizkyafrino14/output/pacman-contribution-graph.svg">
-</picture>
-</div>
-
----
-
-### 🌐 Let's Connect
-
 <div align="center">
 
-<a href="https://instagram.com/riz_456d/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+### yo, i'm rizky 👋
+
+`student` · `developer` · `ui/ux enjoyer`
+
+Building things, breaking things,
+then figuring out why they broke.
+
+<br>
+
+<a href="https://github.com/rizkyafrino14">
+<img src="https://img.shields.io/badge/github-111111?style=flat-square&logo=github&logoColor=white"/>
 </a>
-<a href="https://github.com/rizkyafrino14" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
-</a>
-<a href="mailto:rizkyafrino@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" />
+<a href="https://instagram.com/riz_456d/">
+<img src="https://img.shields.io/badge/instagram-111111?style=flat-square&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
 
+---
+
+### `01` — about me
+
+> 🏫 vocational student from **Semarang Regency, Indonesia**
+> 💻 learning how to build stuff for the web
+> 🎨 interested in UI/UX & visual design
+> 🚀 currently turning random ideas into actual projects
+
+```js
+const rizky = {
+  location: "Central Java, Indonesia",
+  role: "student developer",
+  focus: ["web development", "UI/UX", "creative projects"],
+  mindset: "learn → build → break → repeat"
+};
+```
+
+---
+
+### `02` — stack
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=50,40,30,20,12&height=50&section=footer" width="100%" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,laravel,mysql,react,figma&theme=dark" />
+
+</div>
+---
+
+### `03` — currently
+
+```text
+→ learning        React + modern JavaScript
+→ building        web projects & experiments
+→ designing       interfaces in Figma
+→ exploring       AI + creative development
+```
+
+---
+
+### `04` — github activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rizkyafrino14&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9ca3af&icon_color=ffffff&include_all_commits=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyafrino14&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9ca3af" height="165"/>
+
+</div>
+
+---
+
+### `05` — contribution
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rizkyafrino14/rizkyafrino14/output/pacman-contribution-graph-dark.svg" width="90%"/>
+
+</div>
+
+---
+
+### `06` — find me
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/rizkyafrino14">
+<img src="https://cdn.simpleicons.org/github/ffffff" width="38"/>
+</a>
+</td>
+
+<td width="25"></td>
+
+<td align="center">
+<a href="https://instagram.com/riz_456d/">
+<img src="https://cdn.simpleicons.org/instagram/ffffff" width="38"/>
+</a>
+</td>
+
+<td width="25"></td>
+
+<td align="center">
+<a href="https://www.tiktok.com/@YOUR_USERNAME">
+<img src="https://cdn.simpleicons.org/tiktok/ffffff" width="38"/>
+</a>
+</td>
+
+<td width="25"></td>
+
+<td align="center">
+<a href="https://www.threads.net/@YOUR_USERNAME">
+<img src="https://cdn.simpleicons.org/threads/ffffff" width="38"/>
+</a>
+</td>
+
+<td width="25"></td>
+
+<td align="center">
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/ffffff" width="38"/>
+</a>
+</td>
+</tr>
+</table>
+
+</div>
+<br>
+
+<div align="center">
+
+`open to ideas • projects • collaborations`
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=rizkyafrino14&style=flat-square&color=111111&label=visitors"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111827&height=100&section=footer"/>
+
 </div>
